@@ -1,0 +1,1338 @@
+timestep:
+ 1015020
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1015035
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1015050
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1015065
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1015080
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1015095
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1015110
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1015125
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1015140
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1015155
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1015170
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1015185
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1015200
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1015215
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1015230
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1015245
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1015260
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1015275
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1015290
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1015305
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1015320
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1015335
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1015350
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1015365
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1015380
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1015395
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1015410
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1015425
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1015440
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1015455
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1015470
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1015485
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1015500
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1015515
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1015530
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1015545
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1015560
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1015575
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1015590
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1015605
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1015620
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1015635
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1015650
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1015665
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1015680
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1015695
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1015710
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1015725
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1015740
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1015755
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1015770
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1015785
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1015800
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1015815
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1015830
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1015845
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1015860
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1015875
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1015890
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1015905
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1015920
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1015935
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1015950
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1015965
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1015980
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1015995
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1016010
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1016025
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1016040
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1016055
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1016070
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1016085
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1016100
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1016115
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1016130
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1016145
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1016160
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1016175
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1016190
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1016205
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1016220
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1016235
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1016250
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1016265
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1016280
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1016295
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1016310
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1016325
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1016340
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1016355
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1016370
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1016385
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1016400
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1016415
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1016430
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1016445
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1016460
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1016475
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1016490
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1016505
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1016520
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1016535
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1016550
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1016565
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1016580
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1016595
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1016610
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1016625
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1016640
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1016655
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1016670
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1016685
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1016700
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1016715
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1016730
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1016745
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1016760
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1016775
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1016790
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1016805
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1016820
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1016835
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1016850
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1016865
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1016880
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1016895
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1016910
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1016925
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1016940
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1016955
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1016970
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1016985
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1017000
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1017015
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1017030
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1017045
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1017060
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1017075
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1017090
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1017105
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1017120
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1017135
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1017150
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1017165
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1017180
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1017195
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1017210
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1017225
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1017240
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1017255
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1017270
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1017285
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1017300
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1017315
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1017330
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1017345
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1017360
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1017375
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1017390
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1017405
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1017420
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1017435
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1017450
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1017465
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1017480
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1017495
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1017510
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1017525
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1017540
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1017555
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1017570
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1017585
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1017600
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1017615
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1017630
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1017645
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1017660
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1017675
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1017690
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1017705
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1017720
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1017735
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1017750
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1017765
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1017780
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1017795
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1017810
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1017825
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1017840
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1017855
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1017870
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1017885
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1017900
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1017915
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1017930
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1017945
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1017960
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1017975
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1017990
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1018005
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1018020
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1018035
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1018050
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1018065
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1018080
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1018095
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1018110
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1018125
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1018140
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1018155
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1018170
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1018185
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1018200
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1018215
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1018230
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1018245
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1018260
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1018275
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1018290
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1018305
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1018320
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1018335
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1018350
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1018365
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1018380
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1018395
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1018410
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1018425
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1018440
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1018455
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1018470
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1018485
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1018500
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1018515
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1018530
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1018545
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1018560
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1018575
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1018590
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1018605
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1018620
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1018635
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1018650
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1018665
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1018680
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1018695
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1018710
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1018725
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1018740
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1018755
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1018770
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1018785
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1018800
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1018815
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1018830
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1018845
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1018860
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1018875
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1018890
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1018905
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1018920
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1018935
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1018950
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1018965
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1018980
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1018995
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1019010
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1019025
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1019040
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1019055
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1019070
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1019085
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1019100
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1019115
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1019130
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1019145
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1019160
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1019175
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1019190
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1019205
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1019220
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1019235
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1019250
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1019265
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1019280
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1019295
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1019310
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1019325
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1019340
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1019355
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1019370
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1019385
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1019400
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1019415
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1019430
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1019445
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1019460
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1019475
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1019490
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1019505
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1019520
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1019535
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1019550
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1019565
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1019580
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1019595
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1019610
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1019625
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1019640
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1019655
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1019670
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1019685
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1019700
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1019715
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1019730
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1019745
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1019760
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1019775
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1019790
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1019805
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1019820
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1019835
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1019850
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1019865
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1019880
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1019895
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1019910
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1019925
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1019940
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1019955
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1019970
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1019985
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1020000
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+timestep:
+ 1020015
+preprocess_data.py:223: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(df2, ignore_index = True)
+ntimesteps= 334
+(334, 20)
